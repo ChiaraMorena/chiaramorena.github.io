@@ -47,7 +47,7 @@ mark2 {
 
 #header {
 width: 100%;
-background: url('/home/chiara/Documents/Mysite_/img/green.jpg');
+background: url('https://imagizer.imageshack.com/img924/3340/5KUiwA.jpg');
 height: 80px;
 position: fixed;
 margin-top: 30px;
@@ -80,13 +80,13 @@ margin: 50px auto;
  .author_name_white { font-family:"Wellfleet"; margin: 70px 0 0 75px; color: #fff; font-size: 20px; }
  .author_name_gray { font-family:"Wellfleet"; margin: 75px 0 0 75px; color: #94a4a4; font-size: 20px; }
  .quotes_container { width: 800px; margin: 200 auto; }
-#element1 { background: url('/home/chiara/Documents/Mysite_/img/green.jpg')no-repeat; width: 300px; height: 15px; margin: 0px auto ; position: relative; }
-#frog { background: url('/home/chiara/Documents/Mysite_/img/life.jpg')no-repeat; width: 300px; height: 155px; margin: 0 auto; position: relative; bottom: -30px;}
-#ribbon { background: url('/home/chiara/Documents/Mysite_/img/green.jpg')no-repeat; width: 251px; height: 48px; margin: 0 auto; display: block; position: relative; top: -38px; }
+#element1 { background: url('https://imagizer.imageshack.com/img924/3340/5KUiwA.jpg')no-repeat; width: 300px; height: 15px; margin: 0px auto ; position: relative; }
+#frog { background: url('https://imagizer.imageshack.com/img922/9670/pcQb4P.jpg')no-repeat; width: 300px; height: 155px; margin: 0 auto; position: relative; bottom: -30px;}
+#ribbon { background: url('https://imagizer.imageshack.com/img924/3340/5KUiwA.jpg')no-repeat; width: 251px; height: 48px; margin: 0 auto; display: block; position: relative; top: -38px; }
 
 #slide1, #slide2{ width: 100%; }
 #slide1{
-background:url('/home/chiara/Documents/Mysite_/img/background.jpg') 50% 0 no-repeat fixed;
+background:url('https://imagizer.imageshack.com/img923/7308/CBZmZh.jpg') 50% 0 no-repeat fixed;
 color: #0033cc;
 height: 6px;
 margin: 0;
@@ -102,7 +102,7 @@ overflow: visible;
 padding: 200px 0;
 }
 #slide3{
-background: url(/home/chiara/Documents/Mysite_/img/background.jpg) 50% 0 no-repeat fixed;
+background: url('https://imagizer.imageshack.com/img923/7308/CBZmZh.jpg') 50% 0 no-repeat fixed;
 color: #fff;
 height: 600px;
 padding: 20px 0;
@@ -115,7 +115,7 @@ height: 550px;
 padding: 20px 0;
 }
 #slide5{
-background: url(/home/chiara/Documents/Mysite_/img/background.jpg) 50% 0 no-repeat fixed;
+background: url('https://imagizer.imageshack.com/img923/7308/CBZmZh.jpg') 50% 0 no-repeat fixed;
 height: 600px;
 margin: 0 auto;
 padding: 20px 0;
