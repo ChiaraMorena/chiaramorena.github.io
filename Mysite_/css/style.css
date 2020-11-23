@@ -1,0 +1,128 @@
+body{
+margin: 0;
+padding: 0;
+width: 100%;
+}
+h1 {
+font-family:"Arvo";
+font-weight:normal;
+font-size: 55px;
+text-align: center;
+color: #ffff00;
+margin: 0;
+padding: 0;
+}
+h2 {
+font-family:"Arvo";
+font-weight: normal;
+font-size: 40px;
+text-align: center;
+color: #fff;
+margin: 0;
+padding: 0;
+}
+h3 {
+font-family: Oswald;
+font-weight: normal;
+font-size: 25px;
+text-align: center;
+margin: 6px 0;
+padding: 10;
+z-index: 1;
+position: relative;
+}
+
+mark {
+  background-color: yellow;
+  color: black;
+}
+mark2 {
+  background-color: blue;
+  color: white;
+}
+
+.center { margin: 0 auto; }
+.content{ margin: 0 auto; width: 960px; }
+.clear { clear: both; }
+
+#header {
+width: 100%;
+background: url('/home/chiara/Documents/Mysite_/img/green.jpg');
+height: 80px;
+position: fixed;
+margin-top: 30px;
+}
+#nav { width: 600px; float: right; margin-top: 20px; }
+#logo a { color: #cc33ff; text-decoration: none; float: left; font-size: 30px; margin-top: 20px; color: #fff; font-family:"Wellfleet"; font-weight: bold; }
+#nav ul{
+list-style: none;
+display: block;
+margin: 0 auto;
+list-style: none;
+}
+#nav li{
+margin-top: 9px;
+float: left;
+padding-left: 21px;
+}
+#nav li a { color: #fff; opacity:0.6; font-size: 20px; text-decoration: none; font-family: 'Wellfleet'; }
+#nav li a.active { color: #fff; opacity:1; border-bottom: 2px solid #fff; }
+#nav li a:hover { color: #fff; opacity:1; }
+
+.quotes {
+font-family: 'Goudy Bookletter 1911', serif;
+font-weight: normal;
+font-size: 30px;
+text-align: right;
+margin: 50px auto;
+}
+
+ .author_name_white { font-family:"Wellfleet"; margin: 70px 0 0 75px; color: #fff; font-size: 20px; }
+ .author_name_gray { font-family:"Wellfleet"; margin: 75px 0 0 75px; color: #94a4a4; font-size: 20px; }
+ .quotes_container { width: 800px; margin: 200 auto; }
+#element1 { background: url('/home/chiara/Documents/Mysite_/img/green.jpg')no-repeat; width: 300px; height: 15px; margin: 0px auto ; position: relative; }
+#frog { background: url('/home/chiara/Documents/Mysite_/img/life.jpg')no-repeat; width: 300px; height: 155px; margin: 0 auto; position: relative; bottom: -30px;}
+#ribbon { background: url('/home/chiara/Documents/Mysite_/img/green.jpg')no-repeat; width: 251px; height: 48px; margin: 0 auto; display: block; position: relative; top: -38px; }
+
+#slide1, #slide2{ width: 100%; }
+#slide1{
+background:url('/home/chiara/Documents/Mysite_/img/background.jpg') 50% 0 no-repeat fixed;
+color: #0033cc;
+height: 6px;
+margin: 0;
+padding: 200px 0 260px 0;
+background-size: cover;
+}
+#slide2{
+background-color: #ff0066;
+color: #fff;
+height: 380px;
+margin: 0 auto;
+overflow: visible;
+padding: 200px 0;
+}
+#slide3{
+background: url(/home/chiara/Documents/Mysite_/img/background.jpg) 50% 0 no-repeat fixed;
+color: #fff;
+height: 600px;
+padding: 20px 0;
+background-size: cover;
+}
+#slide4{
+background-color: #00ff00;
+color: ##cc33ff;
+height: 550px;
+padding: 20px 0;
+}
+#slide5{
+background: url(/home/chiara/Documents/Mysite_/img/background.jpg) 50% 0 no-repeat fixed;
+height: 600px;
+margin: 0 auto;
+padding: 20px 0;
+color: ##cc33ff;
+background-size: cover;
+}
+Lastly, we will style our copyright text and center it to the screen.
+
+#copyright { color: #fff; font-family:"Wellfleet"; font-size: 14px; margin-top: 500px; text-align: right; }
+#copyright a { text-decoration: none; color: #fff; }
